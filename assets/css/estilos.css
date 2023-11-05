@@ -5,9 +5,9 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url("../img/william-william-NndKt2kF1L4-unsplash.jpg");
+  background-repeat:initial ;
+  background-size:cover;
   background-position: left;
 }
 
